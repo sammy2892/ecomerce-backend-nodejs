@@ -1,4 +1,4 @@
-# ecomerce-backend-nodejs
+# ecommerce-backend-nodejs
 ecomerce-backend-nodejs
 
 //Link to the documentation of the API tests in Postman.
